@@ -1,6 +1,6 @@
 # TianmuTNT GitHub Profile 
 
-[![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=TianmuTNT)](https://github.com/anuraghazra/github-readme-stats)
+[![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=TianmuTNT)]
 
 ![view](https://moe-counter.glitch.me/get/@TianmuTNT.readme)
 
