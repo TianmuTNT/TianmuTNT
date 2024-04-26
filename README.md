@@ -1,6 +1,6 @@
 # TianmuTNT's Profile 
 
-![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=TianmuTNT)  ![view](https://moe-counter.glitch.me/get/@TianmuTNT.readme)
+![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=TianmuTNT)![view](https://moe-counter.glitch.me/get/@TianmuTNT.readme)
 
 ### A Minecraft player from China. Jack of all trades, master of none.
 
