@@ -8,7 +8,7 @@
 
 **Some of my projects are previous works and are not easy to read, so please don't check them out if you mind!**
 
-**我是一只来自中国的猫娘，爱玩MC，啥都会一点。**
+**我是一只猫娘，爱玩Minecraft，啥都会一点。**
 
 **我爱探索新事物，但我更喜欢吃老本，所以我一般都会半途而废（其实大部分情况是因为条件不允许啦~）**
 
