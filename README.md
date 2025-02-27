@@ -1,5 +1,5 @@
 # Hi there! 👋
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&vCenter=true&width=270&height=30&lines=print(%22Hello%2C+World!%22))
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&vCenter=true&width=270&height=20&lines=print(%22Hello%2C+World!%22))
 
 I'm a Minecraft player from China. Jack of all trades, master of none.
 
