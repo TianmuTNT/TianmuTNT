@@ -8,10 +8,6 @@ I'm a Minecraft player from China. Jack of all trades, master of none.
 ![TianmuTNT's GitHub stats](https://rms.skymc.ink/api?username=TianmuTNT&show_icons=true)
 ![Top Langs](https://rms.skymc.ink/api/top-langs/?username=TianmuTNT&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=20)
 
-## 🎉 Featured Projects​
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=boluoreg&repo=4399Register-legacy&show_owner=true)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TianmuTNT&repo=PiDigits)
-
 ## ⚠ Warning!
 Some of my projects are previous works and are not easy to read, so **please don't check them out if you mind**!
 
