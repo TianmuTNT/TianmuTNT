@@ -1,17 +1,23 @@
-# Hi there! 👋
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&vCenter=true&width=270&height=20&lines=print(%22Hello%2C+World!%22))
-
-I'm a Minecraft player from China. Jack of all trades, master of none.
-
-**Some of my projects may be in the organization**, so keep an eye out for them.
-
-![TianmuTNT's GitHub stats](https://rms.skymc.ink/api?username=TianmuTNT&show_icons=true)
-![Top Langs](https://rms.skymc.ink/api/top-langs/?username=TianmuTNT&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=20)
-
-## ⚠ Warning!
-Some of my projects are previous works and are not easy to read, so **please don't check them out if you mind**!
-
-## 📞 How to reach you?
-1. Here, obviously.
-
-2. [My Bilibili](https://space.bilibili.com/1674232182)
+<p align="center">
+  <img src="image.png" />
+</p>
+<h2 align="center">
+  「绕远的路，总有别样的风景。」
+</h2>
+<p align="center">
+  <img src="https://rms.skymc.ink/api?username=TianmuTNT&show_icons=true" />
+  <img src="https://rms.skymc.ink/api/top-langs/?username=TianmuTNT&layout=compact&size_weight=0.5&count_weight=0.5" />
+</p>
+<hr />
+<p align="center">
+  Some of my projects may be in the organization, so keep an eye out for them.
+</p>
+<p align="center">
+  Some of my projects are previous works and are not easy to read, so please don't check them out if you mind!
+</p>
+<hr />
+<p align="center">
+  <a href="https://space.bilibili.com/1674232182" target="_blank">
+    <img src="https://img.shields.io/badge/BiliBili-%40TianmuTNT-fb7299?style=flat&logo=bilibili&logoColor=%23fb7299" />
+  </a>
+</p>
