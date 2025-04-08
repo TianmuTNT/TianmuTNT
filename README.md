@@ -5,8 +5,8 @@
   「绕远的路，总有别样的风景。」
 </h2>
 <p align="center">
-  <img src="https://rms.skymc.ink/api?username=TianmuTNT&show_icons=true" />
-  <img src="https://rms.skymc.ink/api/top-langs/?username=TianmuTNT&layout=compact&size_weight=0.5&count_weight=0.5" />
+  <img src="https://rms.astrarails.org/api?username=TianmuTNT&show_icons=true" />
+  <img src="https://rms.astrarails.org/api/top-langs/?username=TianmuTNT&layout=compact&size_weight=0.5&count_weight=0.5" />
 </p>
 <hr />
 <p align="center">
