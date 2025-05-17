@@ -18,6 +18,6 @@
 <hr />
 <p align="center">
   <a href="https://space.bilibili.com/1674232182" target="_blank">
-    <img src="https://img.shields.io/badge/BiliBili-%40TianmuTNT-fb7299?style=flat&logo=bilibili&logoColor=%23fb7299" />
+    <img src="https://img.shields.io/badge/BiliBili-%40天沐TNT-fb7299?style=flat&logo=bilibili&logoColor=%23fb7299" />
   </a>
 </p>
