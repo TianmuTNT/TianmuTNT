@@ -4,6 +4,9 @@
 <h2 align="center">
   「绕远的路，总有别样的风景。」
 </h2>
+<h3 align="center">
+  虚拟信用卡平台推荐：<a href="https://bewildcard.com/i/STARRAIL" target="_blank">点此注册</a>可获得$1赠金！
+</h3>
 <p align="center">
   <img src="https://rms.astrarails.org/api?username=TianmuTNT&show_icons=true" />
   <img src="https://rms.astrarails.org/api/top-langs/?username=TianmuTNT&layout=compact&size_weight=0.5&count_weight=0.5" />
