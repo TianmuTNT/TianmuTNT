@@ -5,7 +5,7 @@
   「喵。」
 </h2>
 <h4 align="center">
-  Minecraft高性能服务器推荐：<a href="https://github.com/TianmuTNT/awesome-digital-lifestyle/blob/main/cloud-and-vps.md" target="_blank">点此注册</a>可获得5折优惠！
+  Minecraft高性能服务器推荐：<a href="https://www.rainyun.com/skymc_" target="_blank">点此注册</a>可获得5折优惠！
 </h4>
 <p align="center">
   <img src="https://rms.astrarails.org/api?username=TianmuTNT&show_icons=true" />
