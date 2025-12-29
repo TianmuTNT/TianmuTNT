@@ -4,9 +4,12 @@
 <h2 align="center">
   「喵。」
 </h2>
-<h4 align="center">
-  Minecraft高性能服务器推荐：<a href="https://www.rainyun.com/skymc_" target="_blank">点此注册</a>可获得5折优惠！
-</h4>
+<div align="center">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FTianmuTNT">
+    <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FTianmuTNT&countColor=%23263759" />
+  </a>
+</div>
+<hr />
 <p align="center">
   <img src="https://rms.astrarails.org/api?username=TianmuTNT&show_icons=true" />
 </p>
@@ -16,9 +19,6 @@
 </p>
 <p align="center">
   Some of my projects are previous works and are not easy to read, so please don't check them out if you mind!
-</p>
-<p align="center">
-  CodeBerg: https://codeberg.org/TianmuTNT
 </p>
 <hr />
 <p align="center">
