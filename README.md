@@ -1,7 +1,7 @@
 <hr/>
-<img align="right" width="45%" src="https://rms.astrarails.org/api?username=TianmuTNT&show_icons=true" />
+<img align="right" width="50%" src="https://rms.astrarails.org/api?username=TianmuTNT&show_icons=true" />
 
-<img src="image.jpg" width="35%" />
+<img src="image.jpg" width="45%" />
 
 <h3>
   「喵。」&nbsp;
