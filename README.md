@@ -1,5 +1,5 @@
 <hr/>
-<img align="right" width="50%" src="https://rms.astrarails.org/api?username=TianmuTNT&show_icons=true" />
+<img align="right" width="50%" src="https://rms.astrarails.org/api?username=TianmuTNT&show_icons=true&theme=tokyonight" />
 
 <img src="image.jpg" width="45%" />
 
