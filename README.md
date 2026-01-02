@@ -19,7 +19,7 @@
     <td align="left" valign="top">
       <strong>Proficient</strong>
       <br /><br />
-      <img src="https://skillicons.dev/icons?i=py,ai,vscode,linux,windows&perline=2" />
+      <img src="https://skillicons.dev/icons?i=py,vscode,linux,windows&perline=2" />
     </td>
     <td align="left" valign="top">
       <strong>Familiar With</strong>
