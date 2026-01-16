@@ -24,7 +24,7 @@
     <td align="left" valign="top">
       <strong>Familiar With</strong>
       <br /><br />
-      <img src="https://skillicons.dev/icons?i=java,kotlin,bash,git,md,html,js,unreal,cpp,ts&perline=8" />
+      <img src="https://skillicons.dev/icons?i=java,kotlin,bash,git,md,html,js,unreal,cpp,ts&perline=5" />
     </td>
   </tr>
 </table>
